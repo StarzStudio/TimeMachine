@@ -7,7 +7,7 @@ A program can run commands at scheduled times, driven by the predefined setting 
 Run a task file
 
 ```
-Node Run.js -f [TaskFileName]
+Node Run.js "TaskFileName"
 ```
 
 ## Setting file format
