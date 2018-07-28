@@ -1,0 +1,10 @@
+{
+  "name": "TimeMachine",
+  "version": "1.6.2",
+  "description": "Schedule to run commands",
+  "author": "Xing Zhou",
+  "dependencies": {
+    "async": "latest",
+    "node-schedule": "latest"
+  }
+}

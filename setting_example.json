@@ -1,0 +1,10 @@
+{
+  "schedule" : [
+    "0 15 13 * * *",
+    "0 16 13 * * *"
+  ],
+  "commands": [
+    "ls -la",
+    "echo hello"
+  ]
+}
