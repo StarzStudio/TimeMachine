@@ -49,4 +49,4 @@ Note the default root path is ./TimeMachine
 
 ## Contact
 
-For any questions about the program usage or the general design, please email to developer.xingzhou@gmail.com.
+For any questions about the program usage or the general design, please email to developer.axz@gmail.com.
